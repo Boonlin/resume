@@ -71,7 +71,10 @@ UI/UX & Design Collaboration:
 Worked closely with UI/UX designers to translate design concepts into intuitive, functional user experiences.
 Applied UI/UX principles to ensure consistent, accessible, and visually appealing interfaces across all platforms.
 
-5. ISTAD SHORT COURSE
+5. Reason for resigning 
+I temporarily stepped away from my professional career to manage my family’s business while my older brother was abroad. Recently, my sister has taken over this responsibility, which now allows me to refocus on my career path and apply my skills and experience as a web developer.
+
+6. ISTAD SHORT COURSE
 Institute of Science and Technology Advanced Development (ISTAD)
 starting October 18, 2025 (Saturdays and Sundays, 1:00 PM–5:00 PM, 80 hours total).
 Course Coverage:
@@ -81,18 +84,18 @@ Authentication & Authorization: Keycloak configuration for secure user managemen
 Database: PostgreSQL setup and integration with Spring applications
 Containerization: Docker for deployment and environment managemes.
 
-6. LANGUAGES
+7. LANGUAGES
 Khmer: Native Language 
 English: Medium Writing, Medium Speaking, Medium Listening, Medium Reading
 Korea:  Medium Writing, Poor Speaking, Medium Poor, Medium Reading
 
-7. INTERESTS & HOBBIES
+8. INTERESTS & HOBBIES
 Interests & Hobbies
 Engaging in effective communication and teamwork to build strong professional relationships.
 Learning new technologies and concepts to continuously improve knowledge and technical skills.
 Participating in group discussions and knowledge-sharing sessions to exchange ideas and support collaborative growth.
 
-8. REFERENCES AND AVAILABILITY
+9. REFERENCES AND AVAILABILITY
 Mr. Kim Han-Soo 
 Position : Director of Korea Software HRD Center 
 H/P : 085 402 605 
@@ -105,7 +108,7 @@ Mr. SEOL HOOK HWAN
 position: CEO of KOSIGN
 Phone: 023 900 530
 
-9. Github Link projects 
+10. Github Link projects 
 Springframework Spring MVC project:
 https://github.com/Boonlin/sb9_elearning_restApi.git
 Next.js project:
